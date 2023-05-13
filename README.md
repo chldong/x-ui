@@ -1,3 +1,7 @@
+# x-ui-Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/apgyRe?referralCode=MvIsjp)
+
 # x-ui
 
 支持多协议多用户的 xray 面板
